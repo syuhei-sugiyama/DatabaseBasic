@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DatabaseBasic</string>
+    <string name="save">保存</string>
+    <string name="delete">削除</string>
+    <string name="search">検索</string>
+    <string name="isbn_code">ISBNコード</string>
+    <string name="title">タイトル</string>
+    <string name="price">価格</string>
+</resources>
